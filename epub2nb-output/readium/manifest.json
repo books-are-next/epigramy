@@ -1,0 +1,795 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Epigramy",
+    "identifier": "626495fc-d4c2-47f3-8510-fbed605a5ccd",
+    "author": "Karel Havlíček Borovský",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-03-10T13:44:03.482Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/epigrami_021.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Epigramy 1845",
+      "children": [
+        {
+          "title": "Poklona cenzuře",
+          "children": [
+            {
+              "title": "OBRÁCENÝ SVĚT",
+              "href": "OEBPS/Text/epigrami_006.html#sigil_toc_id_1"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_006.html"
+        },
+        {
+          "title": "Církvi D. D. D.",
+          "children": [
+            {
+              "title": "NEDŮSTATEČNOST",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_2"
+            },
+            {
+              "title": "TOAST",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_3"
+            },
+            {
+              "title": "DEFINITIO DISCIPLINARIS",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_4"
+            },
+            {
+              "title": "„ANI JEDINÝ PUNKTÍK NEPOMINE Z ZÁKONA“",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_5"
+            },
+            {
+              "title": "Popsání ruských národních obyčejů a slavností",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_6"
+            },
+            {
+              "title": "I. Крещение",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_7"
+            },
+            {
+              "title": "PERFECTIBILITAS FIDEI CATHOLICAE",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_8"
+            },
+            {
+              "title": "MYSTICKÝ VÝKLAD",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_9"
+            },
+            {
+              "title": "MAT. VIII., 28–34",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_10"
+            },
+            {
+              "title": "NOVÝ NÁPIS",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_11"
+            },
+            {
+              "title": "„AUS IHREN WERKEN WERDER IHR SIE ERKENNEN“",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_12"
+            },
+            {
+              "title": "Z HISTORIE LITERATURY ČESKÉ",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_13"
+            },
+            {
+              "title": "SELSKÝ",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_14"
+            },
+            {
+              "title": "DEMONSTRATIO MIRACULORUM",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_15"
+            },
+            {
+              "title": "ECCLESIA MILITANS",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_16"
+            },
+            {
+              "title": "POMNĚNKY",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_17"
+            },
+            {
+              "title": "ROŽEŇ-SAMSON",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_18"
+            },
+            {
+              "title": "DŮKAZY SUBJEKTIVNÍ",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_19"
+            },
+            {
+              "title": "Pročpak mají mnišské cechy",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_20"
+            },
+            {
+              "title": "EVANGELIUM SOPHISTICUM",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_21"
+            },
+            {
+              "title": "PŘÍČINY PÁDU JEZOVITSKÉHO ŘÁDU",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_22"
+            },
+            {
+              "title": "SOCIETAS JESU",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_23"
+            },
+            {
+              "title": "KUPECKÁ VÝSTRAHA",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_24"
+            },
+            {
+              "title": "KAZUISTICKÝ",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_25"
+            },
+            {
+              "title": "ETYMOLOGICKÝ",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_26"
+            },
+            {
+              "title": "TALENTY",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_27"
+            },
+            {
+              "title": "NÁPIS NA BUDOUCÍ JEZOVITSKOU KOLEJ V PRAZE",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_28"
+            },
+            {
+              "title": "VETUS TESTAMENTUM PRAEFIGURAVIT NOVUM",
+              "href": "OEBPS/Text/epigrami_007.html#sigil_toc_id_29"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_007.html"
+        },
+        {
+          "title": "Králi D. D. D.",
+          "children": [
+            {
+              "title": "ERDENGÖTTER",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_30"
+            },
+            {
+              "title": "DEMOKRATSKÝ",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_31"
+            },
+            {
+              "title": "OBERSTLANDESAMTSPROJEKT",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_32"
+            },
+            {
+              "title": "RUSKÁ KONSTITUCÍ",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_33"
+            },
+            {
+              "title": "INS STAMMBUCH Sr HOCHGEBOREN",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_34"
+            },
+            {
+              "title": "§ 1",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_35"
+            },
+            {
+              "title": "POLITICKÝ",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_36"
+            },
+            {
+              "title": "FIGURA INVERSIONIS",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_37"
+            },
+            {
+              "title": "SUMÁRNÍ VÝTAH Z PROTOKOLU VALNÉHO SNĚMU STAVŮ ČESKÝCH I MORAVSKÝCH",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_38"
+            },
+            {
+              "title": "IUS REGALE",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_39"
+            },
+            {
+              "title": "PURKMISTRU SLAVNÉ OBCE B…",
+              "href": "OEBPS/Text/epigrami_008.html#sigil_toc_id_40"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_008.html"
+        },
+        {
+          "title": "Vlasti D. D. D.",
+          "children": [
+            {
+              "title": "VELMI MNOHÝM ČESKÝM BÁSNÍKŮM",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_41"
+            },
+            {
+              "title": "ETYMOLOGICKÝ",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_42"
+            },
+            {
+              "title": "OBRANA ČASOPISU „PŘÍTELE MLÁDEŽE“",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_43"
+            },
+            {
+              "title": "ETNOGRAFSKÝ",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_44"
+            },
+            {
+              "title": "GEOGRAFICKÝ",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_45"
+            },
+            {
+              "title": "MEČ A KALICH",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_46"
+            },
+            {
+              "title": "OZNÁMENÍ",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_47"
+            },
+            {
+              "title": "OST UND WEST",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_48"
+            },
+            {
+              "title": "ČESKÁ MODLITBA",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_49"
+            },
+            {
+              "title": "NÁPIS NA JISTÉM DOMĚ NA HRADČANECH",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_50"
+            },
+            {
+              "title": "NÁPIS NA SOCHU KARLA IV.",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_51"
+            },
+            {
+              "title": "LITERÁRNÍ ORIGINÁLNOST",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_52"
+            },
+            {
+              "title": "NOUZE NAUČILA DALIBORA HOUSTI",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_53"
+            },
+            {
+              "title": "ÚČINKY BĚLOHORSKÉ BITVY",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_54"
+            },
+            {
+              "title": "NÁPIS NA PRAŽSKÉM NÁDRAŽÍ",
+              "href": "OEBPS/Text/epigrami_009.html#sigil_toc_id_55"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_009.html"
+        },
+        {
+          "title": "Múzám D. D. D.",
+          "children": [
+            {
+              "title": "PRAŽSKÉ VYSOKÉ ŠKOLY",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_56"
+            },
+            {
+              "title": "VERBA DOCENT, EXEMPLA TRAHUNT",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_57"
+            },
+            {
+              "title": "ANTIGALL",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_58"
+            },
+            {
+              "title": "PREPARANDA",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_59"
+            },
+            {
+              "title": "SKEPTICKÁ MODLITBA",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_60"
+            },
+            {
+              "title": "ORIGINÁLNOST",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_61"
+            },
+            {
+              "title": "KVALIFIKACÍ X., PROFESORA HISTORIE",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_62"
+            },
+            {
+              "title": "UČENÝ EPIGRAM Z RUŠTINY",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_63"
+            },
+            {
+              "title": "NOVÉ KACÍŘSTVÍ",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_64"
+            },
+            {
+              "title": "AKADEMIE PŘÍRODNÍCH VĚD",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_65"
+            },
+            {
+              "title": "DAGUERROTYP",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_66"
+            },
+            {
+              "title": "TEXT K HARMONII SFÉR",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_67"
+            },
+            {
+              "title": "ALLAH KEBIR",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_68"
+            },
+            {
+              "title": "HUDCI K SVÁTKU",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_69"
+            },
+            {
+              "title": "POETA LAUREATUS",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_70"
+            },
+            {
+              "title": "OBYČEJNÝ ČESKÝ LITERÁTOR VECE:",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_71"
+            },
+            {
+              "title": "Z NEJNOVĚJŠÍ LITERATURY",
+              "href": "OEBPS/Text/epigrami_010.html#sigil_toc_id_72"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_010.html"
+        },
+        {
+          "title": "Světu D. D. D.",
+          "children": [
+            {
+              "title": "MISANTROPSKÝ",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_73"
+            },
+            {
+              "title": "PATRONI HALIČE",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_74"
+            },
+            {
+              "title": "KRAKOWIAKI",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_75"
+            },
+            {
+              "title": "MLÁDENCŮM A PANNÁM",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_76"
+            },
+            {
+              "title": "TRIPLEX IMMACULATIO",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_77"
+            },
+            {
+              "title": "INDIFERENTSKÝ",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_78"
+            },
+            {
+              "title": "UMGANG MIT MENSCHEN",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_79"
+            },
+            {
+              "title": "VTIP A BŘICH",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_80"
+            },
+            {
+              "title": "SATIRIK PŘED SOUDNOU STOLICÍ",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_81"
+            },
+            {
+              "title": "SYMPATETICKÉ LÉČENÍ",
+              "href": "OEBPS/Text/epigrami_011.html#sigil_toc_id_82"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_011.html"
+        }
+      ],
+      "href": "OEBPS/Text/epigrami_005.html"
+    },
+    {
+      "title": "Ostatní epigramy",
+      "children": [
+        {
+          "title": "Církvi",
+          "children": [
+            {
+              "title": "NÁMITKA DR. STRAUSZOVI",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_83"
+            },
+            {
+              "title": "BEATA VIRGO MARIA JESUITIS SALUTEM",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_84"
+            },
+            {
+              "title": "APOLOGIE TÁBORITŮ",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_85"
+            },
+            {
+              "title": "CO JEST BŮH?",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_86"
+            },
+            {
+              "title": "ŽIDOVSKÝ",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_87"
+            },
+            {
+              "title": "RADY ZVÍŘAT",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_88"
+            },
+            {
+              "title": "LES BOHÉMIENS ET LES CARAÏBES MODERNES",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_89"
+            },
+            {
+              "title": "Bůh, náš Otec, pro chování",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_90"
+            },
+            {
+              "title": "PODÁVÁNÍ MASA S OMÁČKOU ČILI LAETA COMMUNIO",
+              "href": "OEBPS/Text/epigrami_013.html#sigil_toc_id_91"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_013.html"
+        },
+        {
+          "title": "Králi",
+          "children": [
+            {
+              "title": "ARISTOKRATICKÝ",
+              "href": "OEBPS/Text/epigrami_014.html#sigil_toc_id_92"
+            },
+            {
+              "title": "VÝSTRAHA CÍSAŘI",
+              "href": "OEBPS/Text/epigrami_014.html#sigil_toc_id_93"
+            },
+            {
+              "title": "NEJKRATŠÍ SYMBOLUM",
+              "href": "OEBPS/Text/epigrami_014.html#sigil_toc_id_94"
+            },
+            {
+              "title": "LANDTAG",
+              "href": "OEBPS/Text/epigrami_014.html#sigil_toc_id_95"
+            },
+            {
+              "title": "NOVINA Z PRAHY",
+              "href": "OEBPS/Text/epigrami_014.html#sigil_toc_id_96"
+            },
+            {
+              "title": "Cui simile est Austriacum regimen?",
+              "href": "OEBPS/Text/epigrami_014.html#sigil_toc_id_97"
+            },
+            {
+              "title": "DOBROTIVOST V.",
+              "href": "OEBPS/Text/epigrami_014.html#sigil_toc_id_98"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_014.html"
+        },
+        {
+          "title": "Vlasti",
+          "children": [
+            {
+              "title": "KRLEŠ! KRLEŠ! KRLEŠ!",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_99"
+            },
+            {
+              "title": "COMPARATIO A MAIORI AD MINUS",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_100"
+            },
+            {
+              "title": "ČESKÁ HLAVA",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_101"
+            },
+            {
+              "title": "MODLITBA BYROKRATŮ",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_102"
+            },
+            {
+              "title": "V Jesenicích, slyšte, lidi",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_103"
+            },
+            {
+              "title": "Chleboslav Vokůrka, vlastenec: PROTICHŮDCI",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_104"
+            },
+            {
+              "title": "ZKAŽENÝ KRAKOWIAK",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_105"
+            },
+            {
+              "title": "NEJSI-LI SLOVAN, NEJSI ČECH!",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_106"
+            },
+            {
+              "title": "SVORNOST",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_107"
+            },
+            {
+              "title": "ALEGORIE",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_108"
+            },
+            {
+              "title": "POZDNÍ ROZUM",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_109"
+            },
+            {
+              "title": "JESZCZE POLSKA NIEZGINĘŁA",
+              "href": "OEBPS/Text/epigrami_015.html#sigil_toc_id_110"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_015.html"
+        },
+        {
+          "title": "Múzám",
+          "children": [
+            {
+              "title": "NOVÁ LITERATURA",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_111"
+            },
+            {
+              "title": "KAŽDÝ NĚCO PRO VLAST!",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_112"
+            },
+            {
+              "title": "DOBROSRDEČNOST EPIGRAMATISTY",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_113"
+            },
+            {
+              "title": "ZLE, MATIČKO, ZLE!",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_114"
+            },
+            {
+              "title": "…x stal se za své vytištěné ctnosti",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_115"
+            },
+            {
+              "title": "JEREMIÁDA O ČESKÉM DIVADLE",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_116"
+            },
+            {
+              "title": "INITIUM SAPIENTIAE",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_117"
+            },
+            {
+              "title": "Kterakpak vám nenadati",
+              "href": "OEBPS/Text/epigrami_016.html#sigil_toc_id_118"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_016.html"
+        },
+        {
+          "title": "Světu",
+          "children": [
+            {
+              "title": "LOGIKA A PRANOSTIKA",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_119"
+            },
+            {
+              "title": "EX UNGUE LEONEM",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_120"
+            },
+            {
+              "title": "ZLÉ A DOBRÉ SRDCE",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_121"
+            },
+            {
+              "title": "ZLODĚJ",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_122"
+            },
+            {
+              "title": "ČLOVĚK",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_123"
+            },
+            {
+              "title": "VÝSTRAHA",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_124"
+            },
+            {
+              "title": "VERSUS MEMORIALES",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_125"
+            },
+            {
+              "title": "BAJKA POLITICKÁ",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_126"
+            },
+            {
+              "title": "PŮJČKA ZA OPLÁTKU",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_127"
+            },
+            {
+              "title": "TOMÁŠ II.",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_128"
+            },
+            {
+              "title": "Se sedlákem div se stal",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_129"
+            },
+            {
+              "title": "EKONOMICKÝ",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_130"
+            },
+            {
+              "title": "RADA HLOUPÉMU JANKOVI",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_131"
+            },
+            {
+              "title": "OSEL A LIŠKA",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_132"
+            },
+            {
+              "title": "Řádný člověk, když je mlád",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_133"
+            },
+            {
+              "title": "ŠLECHTICKÁ KREV",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_134"
+            },
+            {
+              "title": "Lenoš a řvi",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_135"
+            },
+            {
+              "title": "Napřed proč?",
+              "href": "OEBPS/Text/epigrami_017.html#sigil_toc_id_136"
+            }
+          ],
+          "href": "OEBPS/Text/epigrami_017.html"
+        }
+      ],
+      "href": "OEBPS/Text/epigrami_012.html"
+    },
+    {
+      "title": "Listy do památníku",
+      "children": [
+        {
+          "title": "HONORATĚ Z WISZNIOWSKÝCH-ZAPOVÉ",
+          "href": "OEBPS/Text/epigrami_019.html"
+        },
+        {
+          "title": "VLASY NA PAMÁTKU",
+          "href": "OEBPS/Text/epigrami_019.html#sigil_toc_id_137"
+        },
+        {
+          "title": "VESELÉ SLEČNĚ",
+          "href": "OEBPS/Text/epigrami_019.html#sigil_toc_id_138"
+        },
+        {
+          "title": "SMUTNÉ SLEČNĚ",
+          "href": "OEBPS/Text/epigrami_019.html#sigil_toc_id_139"
+        },
+        {
+          "title": "PANU VOJTĚCHU WEIDENHOFFROVI",
+          "href": "OEBPS/Text/epigrami_019.html#sigil_toc_id_140"
+        },
+        {
+          "title": "PETRU MILOSLAVU VESELSKÉMU",
+          "href": "OEBPS/Text/epigrami_019.html#sigil_toc_id_141"
+        },
+        {
+          "title": "DO PAMÁTNÍKU SLEČNĚ JUSTINĚ JEŘÁBKOVÉ V BOROTICÍCH",
+          "href": "OEBPS/Text/epigrami_019.html#sigil_toc_id_142"
+        }
+      ],
+      "href": "OEBPS/Text/epigrami_018.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/epigrami_020.html"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Epigramy",
+      "identifier": "626495fc-d4c2-47f3-8510-fbed605a5ccd",
+      "author": "Karel Havlíček Borovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-10T13:44:03.482Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_001.md",
+        "xhtml": "epigrami_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_002.md",
+        "xhtml": "epigrami_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_003.md",
+        "xhtml": "epigrami_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_004.md",
+        "xhtml": "epigrami_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_005.md",
+        "xhtml": "epigrami_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_006.md",
+        "xhtml": "epigrami_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_007.md",
+        "xhtml": "epigrami_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_008.md",
+        "xhtml": "epigrami_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_009.md",
+        "xhtml": "epigrami_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_010.md",
+        "xhtml": "epigrami_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_011.md",
+        "xhtml": "epigrami_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_012.md",
+        "xhtml": "epigrami_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_013.md",
+        "xhtml": "epigrami_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_014.md",
+        "xhtml": "epigrami_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_015.md",
+        "xhtml": "epigrami_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_016.md",
+        "xhtml": "epigrami_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_017.md",
+        "xhtml": "epigrami_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_018.md",
+        "xhtml": "epigrami_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_019.md",
+        "xhtml": "epigrami_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_020.md",
+        "xhtml": "epigrami_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "epigrami_021.md",
+        "xhtml": "epigrami_021.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre12",
+      "calibre14",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre21",
+      "calibre22",
+      "calibre23",
+      "calibre24",
+      "calibre25",
+      "calibre26",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpprimarecdalsiodstavce",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven2basne",
+      "mlpuroven2basne1",
+      "mlpuroven2kapitola",
+      "mlpuroven3basne",
+      "mlpuroven3basne1",
+      "mlpuroven3basne2",
+      "mlpuroven3basne3",
+      "mlpuroven3bezza",
+      "mlpvenovanicxspfirst",
+      "mlpverse",
+      "mlpversebezmezerypred",
+      "mlpversei",
+      "mlpversenadpis",
+      "mlpversepodnadpis",
+      "mlpznakkurziva11b",
+      "mlpznaktucnakurziva9b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "msofootnotetext1",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection2",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "epigramy"
+    },
+    "generatedAt": 1646919843791
+  }
+}
