@@ -1,11 +1,303 @@
 {
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "poetry",
+      "title": "Epigramy",
+      "identifier": "626495fc-d4c2-47f3-8510-fbed605a5ccd",
+      "author": "Karel Havlíček Borovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-10T13:44:03.482Z",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven1cast\nmlpuroven2basne\nmlpuroven2basne1\nmlpuroven2kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis\nmlpuroven3basne\nmlpuroven3basne1\nmlpuroven3basne2\nmlpuroven3basne3\nmlpuroven3bezza",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpznakkurziva11b\nmlpznaktucnakurziva9b\nmlpvenovanicxspfirst\nmlpversei",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptirazautoranazev\nmlpznaktucne11b",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "epigrami_001.md",
+            "xhtml": "epigrami_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_002.md",
+            "xhtml": "epigrami_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_003.md",
+            "xhtml": "epigrami_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_004.md",
+            "xhtml": "epigrami_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_005.md",
+            "xhtml": "epigrami_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_006.md",
+            "xhtml": "epigrami_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_007.md",
+            "xhtml": "epigrami_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_008.md",
+            "xhtml": "epigrami_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_009.md",
+            "xhtml": "epigrami_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_010.md",
+            "xhtml": "epigrami_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_011.md",
+            "xhtml": "epigrami_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_012.md",
+            "xhtml": "epigrami_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_013.md",
+            "xhtml": "epigrami_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_014.md",
+            "xhtml": "epigrami_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_015.md",
+            "xhtml": "epigrami_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_016.md",
+            "xhtml": "epigrami_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_017.md",
+            "xhtml": "epigrami_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_018.md",
+            "xhtml": "epigrami_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_019.md",
+            "xhtml": "epigrami_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_020.md",
+            "xhtml": "epigrami_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "epigrami_021.md",
+            "xhtml": "epigrami_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
   "epub": {
     "metadata": {
       "title": "Epigramy",
       "identifier": "626495fc-d4c2-47f3-8510-fbed605a5ccd",
       "author": "Karel Havlíček Borovský",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T13:44:03.482Z"
+      "modified": "2022-03-10T13:55:53.996Z"
     },
     "chapters": [
       {
@@ -33,85 +325,85 @@
         "xhtml": "epigrami_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Epigramy 1845",
         "subtitleSuggest": "",
         "filename": "epigrami_005.md",
         "xhtml": "epigrami_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poklona cenzuře",
         "subtitleSuggest": "",
         "filename": "epigrami_006.md",
         "xhtml": "epigrami_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Církvi\nD. D. D.",
         "subtitleSuggest": "",
         "filename": "epigrami_007.md",
         "xhtml": "epigrami_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Králi\nD. D. D.",
         "subtitleSuggest": "",
         "filename": "epigrami_008.md",
         "xhtml": "epigrami_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vlasti\nD. D. D.",
         "subtitleSuggest": "",
         "filename": "epigrami_009.md",
         "xhtml": "epigrami_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Múzám\nD. D. D.",
         "subtitleSuggest": "",
         "filename": "epigrami_010.md",
         "xhtml": "epigrami_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Světu\nD. D. D.",
         "subtitleSuggest": "",
         "filename": "epigrami_011.md",
         "xhtml": "epigrami_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ostatní epigramy",
         "subtitleSuggest": "",
         "filename": "epigrami_012.md",
         "xhtml": "epigrami_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Církvi",
         "subtitleSuggest": "",
         "filename": "epigrami_013.md",
         "xhtml": "epigrami_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Králi",
         "subtitleSuggest": "",
         "filename": "epigrami_014.md",
         "xhtml": "epigrami_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vlasti",
         "subtitleSuggest": "",
         "filename": "epigrami_015.md",
         "xhtml": "epigrami_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Múzám",
         "subtitleSuggest": "",
         "filename": "epigrami_016.md",
         "xhtml": "epigrami_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Světu",
         "subtitleSuggest": "",
         "filename": "epigrami_017.md",
         "xhtml": "epigrami_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Listy do památníku",
         "subtitleSuggest": "",
         "filename": "epigrami_018.md",
         "xhtml": "epigrami_018.html"
@@ -123,7 +415,7 @@
         "xhtml": "epigrami_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "epigrami_020.md",
         "xhtml": "epigrami_020.html"
@@ -232,6 +524,6 @@
       "user": "books-are-next",
       "repo": "epigramy"
     },
-    "generatedAt": 1646919843791
+    "generatedAt": 1646920554399
   }
 }

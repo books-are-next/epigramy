@@ -1,0 +1,1462 @@
+{
+  "author": "Karel Havlíček Borovský",
+  "contenttype": "poetry",
+  "identifier": "borovsky-epigramy-9ebf342",
+  "languagecode": "cs",
+  "modified": "2022-03-10T13:44:03.482Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Epigramy",
+  "revision": "9ebf342",
+  "generatedAt": {
+    "date": "Thu Mar 10 2022 13:56:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646920611356
+  },
+  "documents": [
+    {
+      "title": "Epigramy",
+      "file": "epigrami_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "epigrami_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epigramy",
+      "file": "epigrami_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "epigrami_001.html",
+      "next": "epigrami_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epigramy",
+      "file": "epigrami_003.html",
+      "words": 4,
+      "chars": 31,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "epigrami_002.html",
+      "next": "epigrami_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epigramy",
+      "file": "epigrami_004.html",
+      "words": 79,
+      "chars": 531,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "epigrami_003.html",
+      "next": "epigrami_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epigramy 1845 • Epigramy",
+      "file": "epigrami_005.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "epigrami_004.html",
+      "next": "epigrami_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epigramy 1845",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poklona cenzuře • Epigramy",
+      "file": "epigrami_006.html",
+      "words": 14,
+      "chars": 96,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 5,
+      "prev": "epigrami_005.html",
+      "next": "epigrami_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poklona cenzuře",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "OBRÁCENÝ SVĚT",
+              "id": "obrácený-svět",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Církvi\nD. D. D. • Epigramy",
+      "file": "epigrami_007.html",
+      "words": 677,
+      "chars": 3949,
+      "ideas": 156,
+      "role": "chapter",
+      "order": 6,
+      "prev": "epigrami_006.html",
+      "next": "epigrami_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Církvi\nD. D. D.",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "NEDŮSTATEČNOST",
+              "id": "nedůstatečnost",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "TOAST",
+              "id": "toast",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "DEFINITIO DISCIPLINARIS[1]",
+              "id": "definitio-disciplinaris1resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "„ANI JEDINÝ PUNKTÍK NEPOMINE Z ZÁKONA“",
+              "id": "ani-jediný-punktík-nepomine-znbspzákona",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Popsání ruských národních obyčejů a slavností",
+              "id": "popsání-ruských-národních-obyčejů-anbspslavností",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "I. Крещение",
+              "id": "i-крещение",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "PERFECTIBILITAS FIDEI CATHOLICAE[2]",
+              "id": "perfectibilitas-fidei-catholicae2resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "MYSTICKÝ VÝKLAD",
+              "id": "mystický-výklad",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "MAT. VIII., 28–34",
+              "id": "mat-viii-2834",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "NOVÝ NÁPIS",
+              "id": "nový-nápis",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "„AUS IHREN WERKEN WERDER",
+              "id": "aus-ihren-werken-werder",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Z HISTORIE LITERATURY ČESKÉ",
+              "id": "znbsphistorie-literatury-české",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "SELSKÝ",
+              "id": "selský",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "DEMONSTRATIO MIRACULORUM[4]",
+              "id": "demonstratio-miraculorum4resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "ECCLESIA MILITANS[5]",
+              "id": "ecclesia-militans5resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "POMNĚNKY",
+              "id": "pomněnky",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "ROŽEŇ-SAMSON",
+              "id": "rožeň-samson",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "DŮKAZY SUBJEKTIVNÍ",
+              "id": "důkazy-subjektivní",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "EVANGELIUM SOPHISTICUM[6]",
+              "id": "evangelium-sophisticum6resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "PŘÍČINY PÁDU JEZOVITSKÉHO ŘÁDU",
+              "id": "příčiny-pádu-jezovitského-řádu",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "SOCIETAS JESU[7]",
+              "id": "societas-jesu7resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "KUPECKÁ VÝSTRAHA",
+              "id": "kupecká-výstraha",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "KAZUISTICKÝ",
+              "id": "kazuistický",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "ETYMOLOGICKÝ",
+              "id": "etymologický",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "TALENTY",
+              "id": "talenty",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "NÁPIS NA BUDOUCÍ JEZOVITSKOU KOLEJ V PRAZE",
+              "id": "nápis-nanbspbudoucí-jezovitskou-kolej-vnbsppraze",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "VETUS TESTAMENTUM PRAEFIGURAVIT NOVUM[8]",
+              "id": "vetus-testamentum-praefiguravit-novum8resourcesundefined",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Králi\nD. D. D. • Epigramy",
+      "file": "epigrami_008.html",
+      "words": 241,
+      "chars": 1444,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 7,
+      "prev": "epigrami_007.html",
+      "next": "epigrami_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Králi\nD. D. D.",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "ERDENGÖTTER[9]",
+              "id": "erdengötter9resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "DEMOKRATSKÝ",
+              "id": "demokratský",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "OBERSTLANDESAMTSPROJEKT[10]",
+              "id": "oberstlandesamtsprojekt10resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "RUSKÁ KONSTITUCÍ",
+              "id": "ruská-konstitucí",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "INS STAMMBUCH Sr HOCHGEBOREN[11]",
+              "id": "ins-stammbuch-srnbsphochgeboren11resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "§ 1",
+              "id": "nbsp1",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "POLITICKÝ",
+              "id": "politický",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "FIGURA INVERSIONIS[12]",
+              "id": "figura-inversionis12resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "SUMÁRNÍ VÝTAH",
+              "id": "sumární-výtah",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "IUS REGALE[13]",
+              "id": "ius-regale13resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "PURKMISTRU SLAVNÉ OBCE B…",
+              "id": "purkmistru-slavné-obce-b",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vlasti\nD. D. D. • Epigramy",
+      "file": "epigrami_009.html",
+      "words": 442,
+      "chars": 2499,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 8,
+      "prev": "epigrami_008.html",
+      "next": "epigrami_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlasti\nD. D. D.",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VELMI MNOHÝM ČESKÝM BÁSNÍKŮM",
+              "id": "velmi-mnohým-českým-básníkům",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "ETYMOLOGICKÝ",
+              "id": "etymologický",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "OBRANA ČASOPISU „PŘÍTELE MLÁDEŽE“",
+              "id": "obrana-časopisu-přítele-mládeže",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "ETNOGRAFSKÝ",
+              "id": "etnografský",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "GEOGRAFICKÝ",
+              "id": "geografický",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "MEČ A KALICH",
+              "id": "meč-anbspkalich",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "OZNÁMENÍ",
+              "id": "oznámení",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "OST UND WEST",
+              "id": "ost-und-west",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "ČESKÁ MODLITBA",
+              "id": "česká-modlitba",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "NÁPIS NA JISTÉM DOMĚ NA HRADČANECH",
+              "id": "nápis-nanbspjistém-domě-nanbsphradčanech",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "NÁPIS NA SOCHU KARLA IV.",
+              "id": "nápis-nanbspsochu-karla-iv",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "LITERÁRNÍ ORIGINÁLNOST",
+              "id": "literární-originálnost",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "NOUZE NAUČILA DALIBORA HOUSTI",
+              "id": "nouze-naučila-dalibora-housti",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "ÚČINKY BĚLOHORSKÉ BITVY",
+              "id": "účinky-bělohorské-bitvy",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "NÁPIS NA PRAŽSKÉM NÁDRAŽÍ",
+              "id": "nápis-nanbsppražském-nádraží",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Múzám\nD. D. D. • Epigramy",
+      "file": "epigrami_010.html",
+      "words": 405,
+      "chars": 2329,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 9,
+      "prev": "epigrami_009.html",
+      "next": "epigrami_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Múzám\nD. D. D.",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "PRAŽSKÉ VYSOKÉ ŠKOLY",
+              "id": "pražské-vysoké-školy",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "VERBA DOCENT, EXEMPLA TRAHUNT[16]",
+              "id": "verba-docent-exempla-trahunt16resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "ANTIGALL[17]",
+              "id": "antigall17resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "PREPARANDA",
+              "id": "preparanda",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "SKEPTICKÁ MODLITBA",
+              "id": "skeptická-modlitba",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "ORIGINÁLNOST",
+              "id": "originálnost",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "KVALIFIKACÍ X., PROFESORA HISTORIE",
+              "id": "kvalifikací-x-profesora-historie",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "UČENÝ EPIGRAM Z RUŠTINY",
+              "id": "učený-epigram-znbspruštiny",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "NOVÉ KACÍŘSTVÍ",
+              "id": "nové-kacířství",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "AKADEMIE PŘÍRODNÍCH VĚD",
+              "id": "akademie-přírodních-věd",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "DAGUERROTYP",
+              "id": "daguerrotyp",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "TEXT K HARMONII SFÉR",
+              "id": "text-knbspharmonii-sfér",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "ALLAH KEBIR",
+              "id": "allah-kebir",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "HUDCI K SVÁTKU",
+              "id": "hudci-knbspsvátku",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "POETA LAUREATUS",
+              "id": "poeta-laureatus",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "OBYČEJNÝ ČESKÝ LITERÁTOR VECE:",
+              "id": "obyčejný-český-literátor-vece",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Z NEJNOVĚJŠÍ LITERATURY",
+              "id": "znbspnejnovější-literatury",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Světu\nD. D. D. • Epigramy",
+      "file": "epigrami_011.html",
+      "words": 277,
+      "chars": 1565,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 10,
+      "prev": "epigrami_010.html",
+      "next": "epigrami_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Světu\nD. D. D.",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "MISANTROPSKÝ",
+              "id": "misantropský",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "PATRONI HALIČE",
+              "id": "patroni-haliče",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "KRAKOWIAKI",
+              "id": "krakowiaki",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "MLÁDENCŮM A PANNÁM",
+              "id": "mládencům-anbsppannám",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "TRIPLEX IMMACULATIO[18]",
+              "id": "triplex-immaculatio18resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "INDIFERENTSKÝ",
+              "id": "indiferentský",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "UMGANG MIT MENSCHEN[19]",
+              "id": "umgang-mit-menschen19resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "VTIP A BŘICH",
+              "id": "vtip-anbspbřich",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "SATIRIK PŘED SOUDNOU STOLICÍ",
+              "id": "satirik-před-soudnou-stolicí",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "SYMPATETICKÉ LÉČENÍ",
+              "id": "sympatetické-léčení",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ostatní epigramy • Epigramy",
+      "file": "epigrami_012.html",
+      "words": 2,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 11,
+      "prev": "epigrami_011.html",
+      "next": "epigrami_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostatní epigramy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Církvi • Epigramy",
+      "file": "epigrami_013.html",
+      "words": 257,
+      "chars": 1486,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 12,
+      "prev": "epigrami_012.html",
+      "next": "epigrami_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Církvi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "NÁMITKA DR. STRAUSZOVI",
+              "id": "námitka-dr-strauszovi",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "BEATA VIRGO MARIA JESUITIS SALUTEM[20]",
+              "id": "beata-virgo-maria-jesuitis-salutem20resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "APOLOGIE TÁBORITŮ",
+              "id": "apologie-táboritů",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "CO JEST BŮH?",
+              "id": "conbspjest-bůh",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "ŽIDOVSKÝ",
+              "id": "židovský",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "RADY ZVÍŘAT",
+              "id": "rady-zvířat",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "LES BOHÉMIENS ET LES CARAÏBES MODERNES[21]",
+              "id": "les-bohémiens-etnbsples-caraïbes-modernes21resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "PODÁVÁNÍ MASA S OMÁČKOU",
+              "id": "podávání-masa-snbspomáčkou",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Králi • Epigramy",
+      "file": "epigrami_014.html",
+      "words": 231,
+      "chars": 1266,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 13,
+      "prev": "epigrami_013.html",
+      "next": "epigrami_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Králi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "ARISTOKRATICKÝ",
+              "id": "aristokratický",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "VÝSTRAHA CÍSAŘI",
+              "id": "výstraha-císaři",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "NEJKRATŠÍ SYMBOLUM",
+              "id": "nejkratší-symbolum",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "LANDTAG[22]",
+              "id": "landtag22resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "NOVINA Z PRAHY",
+              "id": "novina-znbspprahy",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "DOBROTIVOST V.",
+              "id": "dobrotivost-v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vlasti • Epigramy",
+      "file": "epigrami_015.html",
+      "words": 422,
+      "chars": 2399,
+      "ideas": 88,
+      "role": "chapter",
+      "order": 14,
+      "prev": "epigrami_014.html",
+      "next": "epigrami_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlasti",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "KRLEŠ! KRLEŠ! KRLEŠ!",
+              "id": "krleš-krleš-krleš",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "COMPARATIO A MAIORI AD MINUS[23]",
+              "id": "comparatio-anbspmaiori-adnbspminus23resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "ČESKÁ HLAVA",
+              "id": "česká-hlava",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "MODLITBA BYROKRATŮ",
+              "id": "modlitba-byrokratů",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Chleboslav Vokůrka, vlastenec:",
+              "id": "chleboslav-vokůrka-vlastenec",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "ZKAŽENÝ KRAKOWIAK",
+              "id": "zkažený-krakowiak",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "NEJSI-LI SLOVAN, NEJSI ČECH!",
+              "id": "nejsi-li-slovan-nejsi-čech",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "SVORNOST",
+              "id": "svornost",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "ALEGORIE",
+              "id": "alegorie",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "POZDNÍ ROZUM",
+              "id": "pozdní-rozum",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "JESZCZE POLSKA NIEZGINĘŁA",
+              "id": "jeszcze-polska-niezginęła",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Múzám • Epigramy",
+      "file": "epigrami_016.html",
+      "words": 242,
+      "chars": 1366,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 15,
+      "prev": "epigrami_015.html",
+      "next": "epigrami_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Múzám",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "NOVÁ LITERATURA",
+              "id": "nová-literatura",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "KAŽDÝ NĚCO PRO VLAST!",
+              "id": "každý-něco-pro-vlast",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "DOBROSRDEČNOST EPIGRAMATISTY",
+              "id": "dobrosrdečnost-epigramatisty",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "ZLE, MATIČKO, ZLE!",
+              "id": "zle-matičko-zle",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "JEREMIÁDA O ČESKÉM DIVADLE",
+              "id": "jeremiáda-onbspčeském-divadle",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "INITIUM SAPIENTIAE[28]",
+              "id": "initium-sapientiae28resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "* * *",
+              "id": "---1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Světu • Epigramy",
+      "file": "epigrami_017.html",
+      "words": 434,
+      "chars": 2336,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 16,
+      "prev": "epigrami_016.html",
+      "next": "epigrami_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Světu",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "LOGIKA A PRANOSTIKA",
+              "id": "logika-anbsppranostika",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "EX UNGUE LEONEM[29]",
+              "id": "exnbspungue-leonem29resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "ZLÉ A DOBRÉ SRDCE",
+              "id": "zlé-anbspdobré-srdce",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "ZLODĚJ",
+              "id": "zloděj",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "ČLOVĚK",
+              "id": "člověk",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "VÝSTRAHA",
+              "id": "výstraha",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "VERSUS MEMORIALES[30]",
+              "id": "versus-memoriales30resourcesundefined",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "BAJKA POLITICKÁ",
+              "id": "bajka-politická",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "PŮJČKA ZA OPLÁTKU",
+              "id": "půjčka-zanbspoplátku",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "TOMÁŠ II.",
+              "id": "tomáš-ii",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "EKONOMICKÝ",
+              "id": "ekonomický",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "RADA HLOUPÉMU JANKOVI",
+              "id": "rada-hloupému-jankovi",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "OSEL A LIŠKA",
+              "id": "osel-anbspliška",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "* * *",
+              "id": "---1",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "ŠLECHTICKÁ KREV",
+              "id": "šlechtická-krev",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "* * *",
+              "id": "---2",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "* * *",
+              "id": "---3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Listy do památníku • Epigramy",
+      "file": "epigrami_018.html",
+      "words": 3,
+      "chars": 18,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 17,
+      "prev": "epigrami_017.html",
+      "next": "epigrami_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listy do památníku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epigramy",
+      "file": "epigrami_019.html",
+      "words": 183,
+      "chars": 1073,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 18,
+      "prev": "epigrami_018.html",
+      "next": "epigrami_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "HONORATĚ Z WISZNIOWSKÝCH-ZAPOVÉ",
+              "id": "honoratě-znbspwiszniowských-zapové",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "VLASY NA PAMÁTKU",
+              "id": "vlasy-nanbsppamátku",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "VESELÉ SLEČNĚ",
+              "id": "veselé-slečně",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "SMUTNÉ SLEČNĚ",
+              "id": "smutné-slečně",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "PANU VOJTĚCHU WEIDENHOFFROVI",
+              "id": "panu-vojtěchu-weidenhoffrovi",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "PETRU MILOSLAVU VESELSKÉMU",
+              "id": "petru-miloslavu-veselskému",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "DO PAMÁTNÍKU SLEČNĚ",
+              "id": "donbsppamátníku-slečně",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Epigramy",
+      "file": "epigrami_020.html",
+      "words": 277,
+      "chars": 1841,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 19,
+      "prev": "epigrami_019.html",
+      "next": "epigrami_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epigramy",
+      "file": "epigrami_021.html",
+      "words": 46,
+      "chars": 320,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 20,
+      "prev": "epigrami_020.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4244,
+      "chars": 24617,
+      "ideas": 950
+    },
+    "chapters": {
+      "words": 4238,
+      "chars": 24578,
+      "ideas": 946
+    }
+  }
+}
