@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "epigrami_001.md",
             "xhtml": "epigrami_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -50,9 +51,9 @@
             "filename": "epigrami_002.md",
             "xhtml": "epigrami_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -62,9 +63,9 @@
             "filename": "epigrami_003.md",
             "xhtml": "epigrami_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -74,9 +75,9 @@
             "filename": "epigrami_004.md",
             "xhtml": "epigrami_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -92,7 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Epigramy 1845"
           },
           {
             "filename": "epigrami_006.md",
@@ -104,7 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poklona cenzuře"
           },
           {
             "filename": "epigrami_007.md",
@@ -116,7 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Církvi\nD. D. D."
           },
           {
             "filename": "epigrami_008.md",
@@ -128,7 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Králi\nD. D. D."
           },
           {
             "filename": "epigrami_009.md",
@@ -140,7 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlasti\nD. D. D."
           },
           {
             "filename": "epigrami_010.md",
@@ -152,7 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Múzám\nD. D. D."
           },
           {
             "filename": "epigrami_011.md",
@@ -164,7 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Světu\nD. D. D."
           },
           {
             "filename": "epigrami_012.md",
@@ -176,7 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ostatní epigramy"
           },
           {
             "filename": "epigrami_013.md",
@@ -188,7 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Církvi"
           },
           {
             "filename": "epigrami_014.md",
@@ -200,7 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Králi"
           },
           {
             "filename": "epigrami_015.md",
@@ -212,7 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlasti"
           },
           {
             "filename": "epigrami_016.md",
@@ -224,7 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Múzám"
           },
           {
             "filename": "epigrami_017.md",
@@ -236,7 +249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Světu"
           },
           {
             "filename": "epigrami_018.md",
@@ -245,10 +259,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Listy do památníku"
           },
           {
             "filename": "epigrami_019.md",
@@ -258,7 +273,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -269,24 +284,26 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "epigrami_021.md",
             "xhtml": "epigrami_021.html",
             "id": 20,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -297,7 +314,7 @@
       "identifier": "626495fc-d4c2-47f3-8510-fbed605a5ccd",
       "author": "Karel Havlíček Borovský",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T13:55:53.996Z"
+      "modified": "2022-03-10T14:04:36.682Z"
     },
     "chapters": [
       {
@@ -524,6 +541,6 @@
       "user": "books-are-next",
       "repo": "epigramy"
     },
-    "generatedAt": 1646920554399
+    "generatedAt": 1646921077200
   }
 }
