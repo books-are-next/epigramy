@@ -1,7 +1,5 @@
 ---
-title: |-
-  Světu
-  D. D. D.
+title: Světu D\. D\. D\.
 contentType: prose
 ---
 
