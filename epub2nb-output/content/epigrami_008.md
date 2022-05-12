@@ -1,7 +1,5 @@
 ---
-title: |-
-  Králi
-  D. D. D.
+title: Králi D\. D\. D\.
 contentType: prose
 ---
 

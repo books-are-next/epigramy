@@ -1,7 +1,5 @@
 ---
-title: |-
-  Církvi
-  D. D. D.
+title: Církvi D\. D\. D\.
 contentType: prose
 ---
 

@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-10T13:44:03.482Z'
   publisherShort: mkp
 readingOrder:
-  - epigrami_002.html
+  - promo.html
   - epigrami_005.html
   - epigrami_006.html
   - epigrami_007.html

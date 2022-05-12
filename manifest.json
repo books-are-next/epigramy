@@ -1,21 +1,41 @@
 {
-  "author": "Karel Havlíček Borovský",
-  "contenttype": "poetry",
-  "identifier": "borovsky-epigramy-2dd4564",
-  "languagecode": "cs",
-  "modified": "2022-03-10T13:44:03.482Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Epigramy",
-  "revision": "2dd4564",
+  "author": "Karel Havlíček Borovský",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "borovsky-epigramy-0ed1439",
+  "revision": "0ed1439",
+  "readingOrder": [
+    "promo.html",
+    "epigrami_005.html",
+    "epigrami_006.html",
+    "epigrami_007.html",
+    "epigrami_008.html",
+    "epigrami_009.html",
+    "epigrami_010.html",
+    "epigrami_011.html",
+    "epigrami_012.html",
+    "epigrami_013.html",
+    "epigrami_014.html",
+    "epigrami_015.html",
+    "epigrami_016.html",
+    "epigrami_017.html",
+    "epigrami_018.html",
+    "epigrami_020.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Mar 10 2022 14:05:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646921129745
+    "date": "Thu May 12 2022 10:40:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352011814
   },
   "documents": [
     {
-      "title": "Epigramy",
-      "file": "epigrami_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +43,17 @@
       "order": 0,
       "prev": null,
       "next": "epigrami_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Epigramy 1845 • Epigramy",
+      "title": "Epigramy 1845",
       "file": "epigrami_005.html",
       "words": 2,
       "chars": 13,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "epigrami_002.html",
+      "prev": "promo.html",
       "next": "epigrami_006.html",
       "toc": [
         {
@@ -54,7 +66,7 @@
       ]
     },
     {
-      "title": "Poklona cenzuře • Epigramy",
+      "title": "Poklona cenzuře",
       "file": "epigrami_006.html",
       "words": 14,
       "chars": 96,
@@ -82,11 +94,11 @@
       ]
     },
     {
-      "title": "Církvi\nD. D. D. • Epigramy",
+      "title": "Církvi D. D. D.",
       "file": "epigrami_007.html",
       "words": 677,
-      "chars": 3949,
-      "ideas": 156,
+      "chars": 3950,
+      "ideas": 155,
       "role": "chapter",
       "order": 3,
       "prev": "epigrami_006.html",
@@ -95,7 +107,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Církvi\nD. D. D.",
+          "name": "Církvi D. D. D.",
           "id": null,
           "children": [
             {
@@ -299,11 +311,11 @@
       ]
     },
     {
-      "title": "Králi\nD. D. D. • Epigramy",
+      "title": "Králi D. D. D.",
       "file": "epigrami_008.html",
       "words": 241,
-      "chars": 1444,
-      "ideas": 66,
+      "chars": 1445,
+      "ideas": 65,
       "role": "chapter",
       "order": 4,
       "prev": "epigrami_007.html",
@@ -312,7 +324,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Králi\nD. D. D.",
+          "name": "Králi D. D. D.",
           "id": null,
           "children": [
             {
@@ -397,11 +409,11 @@
       ]
     },
     {
-      "title": "Vlasti\nD. D. D. • Epigramy",
+      "title": "Vlasti D. D. D.",
       "file": "epigrami_009.html",
       "words": 442,
-      "chars": 2499,
-      "ideas": 108,
+      "chars": 2500,
+      "ideas": 107,
       "role": "chapter",
       "order": 5,
       "prev": "epigrami_008.html",
@@ -410,7 +422,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlasti\nD. D. D.",
+          "name": "Vlasti D. D. D.",
           "id": null,
           "children": [
             {
@@ -523,11 +535,11 @@
       ]
     },
     {
-      "title": "Múzám\nD. D. D. • Epigramy",
+      "title": "Múzám D. D. D.",
       "file": "epigrami_010.html",
       "words": 405,
-      "chars": 2329,
-      "ideas": 98,
+      "chars": 2330,
+      "ideas": 97,
       "role": "chapter",
       "order": 6,
       "prev": "epigrami_009.html",
@@ -536,7 +548,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Múzám\nD. D. D.",
+          "name": "Múzám D. D. D.",
           "id": null,
           "children": [
             {
@@ -663,11 +675,11 @@
       ]
     },
     {
-      "title": "Světu\nD. D. D. • Epigramy",
+      "title": "Světu D. D. D.",
       "file": "epigrami_011.html",
       "words": 277,
-      "chars": 1565,
-      "ideas": 66,
+      "chars": 1566,
+      "ideas": 65,
       "role": "chapter",
       "order": 7,
       "prev": "epigrami_010.html",
@@ -676,7 +688,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Světu\nD. D. D.",
+          "name": "Světu D. D. D.",
           "id": null,
           "children": [
             {
@@ -754,7 +766,7 @@
       ]
     },
     {
-      "title": "Ostatní epigramy • Epigramy",
+      "title": "Ostatní epigramy",
       "file": "epigrami_012.html",
       "words": 2,
       "chars": 16,
@@ -774,7 +786,7 @@
       ]
     },
     {
-      "title": "Církvi • Epigramy",
+      "title": "Církvi",
       "file": "epigrami_013.html",
       "words": 257,
       "chars": 1486,
@@ -858,7 +870,7 @@
       ]
     },
     {
-      "title": "Králi • Epigramy",
+      "title": "Králi",
       "file": "epigrami_014.html",
       "words": 231,
       "chars": 1266,
@@ -928,7 +940,7 @@
       ]
     },
     {
-      "title": "Vlasti • Epigramy",
+      "title": "Vlasti",
       "file": "epigrami_015.html",
       "words": 422,
       "chars": 2399,
@@ -1033,7 +1045,7 @@
       ]
     },
     {
-      "title": "Múzám • Epigramy",
+      "title": "Múzám",
       "file": "epigrami_016.html",
       "words": 242,
       "chars": 1366,
@@ -1110,7 +1122,7 @@
       ]
     },
     {
-      "title": "Světu • Epigramy",
+      "title": "Světu",
       "file": "epigrami_017.html",
       "words": 434,
       "chars": 2336,
@@ -1257,7 +1269,7 @@
       ]
     },
     {
-      "title": "Listy do památníku • Epigramy",
+      "title": "Listy do památníku",
       "file": "epigrami_018.html",
       "words": 186,
       "chars": 1091,
@@ -1327,7 +1339,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Epigramy",
+      "title": "Poznámky pod čarou",
       "file": "epigrami_020.html",
       "words": 277,
       "chars": 1841,
@@ -1347,11 +1359,11 @@
       ]
     },
     {
-      "title": "Tiráž • Epigramy",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 887,
-      "ideas": 22,
+      "words": 105,
+      "chars": 730,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "epigrami_020.html",
@@ -1369,14 +1381,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4244,
-      "chars": 24617,
-      "ideas": 950
+      "words": 4219,
+      "chars": 24465,
+      "ideas": 937
     },
     "chapters": {
       "words": 4109,
-      "chars": 23696,
-      "ideas": 925
+      "chars": 23701,
+      "ideas": 920
     }
   }
 }

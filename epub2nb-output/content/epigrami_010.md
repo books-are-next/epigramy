@@ -1,7 +1,5 @@
 ---
-title: |-
-  Múzám
-  D. D. D.
+title: Múzám D\. D\. D\.
 contentType: prose
 ---
 

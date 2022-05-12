@@ -51,7 +51,7 @@
             "filename": "epigrami_002.md",
             "xhtml": "epigrami_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -305,8 +305,7 @@
         ],
         "devoured": false
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -314,7 +313,7 @@
       "identifier": "626495fc-d4c2-47f3-8510-fbed605a5ccd",
       "author": "Karel Havlíček Borovský",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T14:04:36.682Z"
+      "modified": "2018-10-10T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -354,31 +353,31 @@
         "xhtml": "epigrami_006.html"
       },
       {
-        "titleSuggest": "Církvi\nD. D. D.",
+        "titleSuggest": "Církvi D\\. D\\. D\\.",
         "subtitleSuggest": "",
         "filename": "epigrami_007.md",
         "xhtml": "epigrami_007.html"
       },
       {
-        "titleSuggest": "Králi\nD. D. D.",
+        "titleSuggest": "Králi D\\. D\\. D\\.",
         "subtitleSuggest": "",
         "filename": "epigrami_008.md",
         "xhtml": "epigrami_008.html"
       },
       {
-        "titleSuggest": "Vlasti\nD. D. D.",
+        "titleSuggest": "Vlasti D\\. D\\. D\\.",
         "subtitleSuggest": "",
         "filename": "epigrami_009.md",
         "xhtml": "epigrami_009.html"
       },
       {
-        "titleSuggest": "Múzám\nD. D. D.",
+        "titleSuggest": "Múzám D\\. D\\. D\\.",
         "subtitleSuggest": "",
         "filename": "epigrami_010.md",
         "xhtml": "epigrami_010.html"
       },
       {
-        "titleSuggest": "Světu\nD. D. D.",
+        "titleSuggest": "Světu D\\. D\\. D\\.",
         "subtitleSuggest": "",
         "filename": "epigrami_011.md",
         "xhtml": "epigrami_011.html"
@@ -541,6 +540,6 @@
       "user": "books-are-next",
       "repo": "epigramy"
     },
-    "generatedAt": 1646921077200
+    "generatedAt": 1652351479355
   }
 }

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Vlasti
-  D. D. D.
+title: Vlasti D\. D\. D\.
 contentType: prose
 ---
 
