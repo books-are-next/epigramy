@@ -3,6 +3,8 @@ title: Múzám
 contentType: poetry
 ---
 
+<section>
+
 ## NOVÁ LITERATURA
 
 Že nemoh být prvním světlem v Čechách,  
@@ -65,3 +67,5 @@ Kterakpak vám nenadati učených knedlíků,
 když zkoumáte, co je duše, v chemickém rendlíku;  
 co o té mojí v biblí stojí, že jest Boží dech, –  
 co ty o své vychemičíš, to si, Němče, nech!
+
+</section>

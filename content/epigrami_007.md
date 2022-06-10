@@ -3,6 +3,8 @@ title: Církvi D\. D\. D\.
 contentType: poetry
 ---
 
+<section>
+
 ## NEDŮSTATEČNOST
 
 Dokazují kněži z plných plíc,  
@@ -217,3 +219,5 @@ Stejní hrdinové jsou
 Samson s Hynkem Lojolou:  
 jeden míň a druhý více  
 pustil lišek do pšenice.
+
+</section>

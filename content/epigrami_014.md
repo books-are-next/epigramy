@@ -3,6 +3,8 @@ title: Králi
 contentType: poetry
 ---
 
+<section>
+
 ## ARISTOKRATICKÝ
 
 Však se podle díla mistrův rozum vidí,  
@@ -66,3 +68,5 @@ Ach, vzali ti ji, vzali
 na radu jisté paní,  
 jež ležela v posteli  
 s Grünnem při klekání.
+
+</section>

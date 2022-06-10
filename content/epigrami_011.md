@@ -3,6 +3,8 @@ title: Světu D\. D\. D\.
 contentType: poetry
 ---
 
+<section>
+
 ## MISANTROPSKÝ
 
 Od čerta vás pro ten božský hněv  
@@ -88,3 +90,5 @@ její vlastní med;
 bodne-li tě epigramská střela,  
 vlož na ránu – prostředek máš jistý –  
 chumáč vlasů z epigramatisty.
+
+</section>

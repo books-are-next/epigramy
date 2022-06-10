@@ -3,6 +3,8 @@ title: Králi D\. D\. D\.
 contentType: poetry
 ---
 
+<section>
+
 ## ERDENGÖTTER[**\[9\]**](./resources/undefined)
 
 Vidím mezi Pánbíčkem a knížaty  
@@ -89,3 +91,5 @@ Chlubíváš se, a sic podle práva,
 že jsi _čtyr tisíců_ měšťan hlava;  
 jenom to se přimysliti sluší –  
 jaké musí mít ta hlava uši!
+
+</section>
