@@ -1,6 +1,6 @@
 ---
 title: Listy do památníku
-contentType: prose
+contentType: poetry
 ---
 
 

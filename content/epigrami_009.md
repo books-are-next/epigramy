@@ -1,6 +1,6 @@
 ---
 title: Vlasti D\. D\. D\.
-contentType: prose
+contentType: poetry
 ---
 
 ## VELMI MNOHÝM ČESKÝM BÁSNÍKŮM

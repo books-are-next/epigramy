@@ -1,6 +1,6 @@
 ---
 title: Poznámky pod čarou
-contentType: prose
+contentType: poetry
 ---
 
 [\[1\]](./resources/undefined) Definitio disciplinaris – věroučná definice.

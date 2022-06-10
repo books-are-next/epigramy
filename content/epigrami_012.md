@@ -1,6 +1,6 @@
 ---
 title: Ostatní epigramy
-contentType: prose
+contentType: poetry
 ---
 
 

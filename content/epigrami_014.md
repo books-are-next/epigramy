@@ -1,6 +1,6 @@
 ---
 title: Králi
-contentType: prose
+contentType: poetry
 ---
 
 ## ARISTOKRATICKÝ

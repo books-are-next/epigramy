@@ -1,6 +1,6 @@
 ---
 title: Králi D\. D\. D\.
-contentType: prose
+contentType: poetry
 ---
 
 ## ERDENGÖTTER[**\[9\]**](./resources/undefined)

@@ -1,6 +1,6 @@
 ---
 title: Světu D\. D\. D\.
-contentType: prose
+contentType: poetry
 ---
 
 ## MISANTROPSKÝ

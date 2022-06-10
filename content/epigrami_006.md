@@ -1,6 +1,6 @@
 ---
 title: Poklona cenzuře
-contentType: prose
+contentType: poetry
 ---
 
 ## OBRÁCENÝ SVĚT

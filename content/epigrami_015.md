@@ -1,6 +1,6 @@
 ---
 title: Vlasti
-contentType: prose
+contentType: poetry
 ---
 
 ## KRLEŠ! KRLEŠ! KRLEŠ!

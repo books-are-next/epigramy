@@ -1,6 +1,6 @@
 ---
 title: Světu
-contentType: prose
+contentType: poetry
 ---
 
 ## LOGIKA A PRANOSTIKA
