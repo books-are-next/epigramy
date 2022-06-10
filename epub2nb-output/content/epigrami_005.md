@@ -1,6 +1,6 @@
 ---
 title: Epigramy 1845
-contentType: prose
+contentType: poetry
 ---
 
 _JEHLY, ŠPIČKY, SOCHORY A KŮLY  

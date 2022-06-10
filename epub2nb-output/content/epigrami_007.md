@@ -1,6 +1,6 @@
 ---
 title: Církvi D\. D\. D\.
-contentType: prose
+contentType: poetry
 ---
 
 ## NEDŮSTATEČNOST

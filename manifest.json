@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-0ed1439",
-  "revision": "0ed1439",
+  "identifier": "borovsky-epigramy-14d6375",
+  "revision": "14d6375",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -29,8 +29,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:40:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352011814
+    "date": "Fri Jun 10 2022 14:16:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870597514
   },
   "documents": [
     {
@@ -1361,9 +1361,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 105,
-      "chars": 730,
-      "ideas": 14,
+      "words": 101,
+      "chars": 681,
+      "ideas": 13,
       "role": "colophon",
       "order": null,
       "prev": "epigrami_020.html",
@@ -1381,9 +1381,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4219,
-      "chars": 24465,
-      "ideas": 937
+      "words": 4215,
+      "chars": 24416,
+      "ideas": 936
     },
     "chapters": {
       "words": 4109,

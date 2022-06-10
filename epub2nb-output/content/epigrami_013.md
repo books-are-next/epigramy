@@ -1,6 +1,6 @@
 ---
 title: Církvi
-contentType: prose
+contentType: poetry
 ---
 
 ## NÁMITKA DR. STRAUSZOVI

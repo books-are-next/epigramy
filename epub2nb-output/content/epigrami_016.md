@@ -1,6 +1,6 @@
 ---
 title: Múzám
-contentType: prose
+contentType: poetry
 ---
 
 ## NOVÁ LITERATURA

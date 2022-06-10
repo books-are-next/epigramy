@@ -1,6 +1,6 @@
 ---
 title: Múzám D\. D\. D\.
-contentType: prose
+contentType: poetry
 ---
 
 ## PRAŽSKÉ VYSOKÉ ŠKOLY
