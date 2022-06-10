@@ -3,6 +3,8 @@ title: Církvi
 contentType: poetry
 ---
 
+<section>
+
 ## NÁMITKA DR. STRAUSZOVI
 
 Když se rozcházeli apoštolé,  
@@ -91,3 +93,5 @@ Jestlipak ještě, ty černá chaso,
 dáváš věřícím s omáčkou maso?  
 Ba ovšem, že se pořád  
 koná u nás ten neřád.
+
+</section>

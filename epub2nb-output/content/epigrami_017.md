@@ -3,6 +3,8 @@ title: Světu
 contentType: poetry
 ---
 
+<section>
+
 ## LOGIKA A PRANOSTIKA
 
 Měkká kaše, tvrdý kámen,  
@@ -149,3 +151,5 @@ hubu suš!
 Napřed proč?
 
 A potom kroč.
+
+</section>

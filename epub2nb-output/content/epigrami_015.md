@@ -3,6 +3,8 @@ title: Vlasti
 contentType: poetry
 ---
 
+<section>
+
 ## KRLEŠ! KRLEŠ! KRLEŠ!
 
 Pojďte, vlastenci, jež srdce bolí,  
@@ -121,3 +123,5 @@ A třeba nám odzpívali –
 ej, – všechno má svůj čas!  
 A čím my jindy bývali,  
 budem přec ještě zas!
+
+</section>

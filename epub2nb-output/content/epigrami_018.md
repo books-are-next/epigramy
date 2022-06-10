@@ -7,6 +7,8 @@ contentType: poetry
 
 
 
+<section>
+
 ## HONORATĚ Z WISZNIOWSKÝCH-ZAPOVÉ
 
 I v polských sadech ujmulo se kvítí,  
@@ -60,3 +62,5 @@ Borová a Borotice –
 to jsou pravé sestřenice;  
 taky my nepopustíme,  
 až se nějak spřátelíme.
+
+</section>

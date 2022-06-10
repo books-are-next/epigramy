@@ -3,6 +3,8 @@ title: Múzám D\. D\. D\.
 contentType: poetry
 ---
 
+<section>
+
 ## PRAŽSKÉ VYSOKÉ ŠKOLY
 
 On:
@@ -141,3 +143,5 @@ Kusy srdce pro kuchařky jsou vydané;
 jsou-li z masa – na zadělávané;  
 jsou-li papírové – nač? –  
 Aspoň pod koláč! –
+
+</section>

@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-14d6375",
-  "revision": "14d6375",
+  "identifier": "borovsky-epigramy-4cb70f2",
+  "revision": "4cb70f2",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -29,8 +29,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:16:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870597514
+    "date": "Fri Jun 10 2022 17:49:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883363324
   },
   "documents": [
     {
@@ -48,9 +48,9 @@
     {
       "title": "Epigramy 1845",
       "file": "epigrami_005.html",
-      "words": 2,
-      "chars": 13,
-      "ideas": 1,
+      "words": 21,
+      "chars": 131,
+      "ideas": 6,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -1361,9 +1361,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 101,
-      "chars": 681,
-      "ideas": 13,
+      "words": 44,
+      "chars": 331,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "epigrami_020.html",
@@ -1381,14 +1381,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4215,
-      "chars": 24416,
-      "ideas": 936
+      "words": 4177,
+      "chars": 24184,
+      "ideas": 933
     },
     "chapters": {
-      "words": 4109,
-      "chars": 23701,
-      "ideas": 920
+      "words": 4128,
+      "chars": 23819,
+      "ideas": 925
     }
   }
 }

@@ -3,6 +3,8 @@ title: Vlasti D\. D\. D\.
 contentType: poetry
 ---
 
+<section>
+
 ## VELMI MNOHÝM ČESKÝM BÁSNÍKŮM
 
 Věčná vaše píseň: „Jaká slast  
@@ -146,3 +148,5 @@ vystaveném 1845
 
 Co se divíš, bratře Čechu, jak entuziasta?  
 Připojili Prahu k Vídni železem – i basta.
+
+</section>

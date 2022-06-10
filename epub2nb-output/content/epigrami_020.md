@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: poetry
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Definitio disciplinaris – věroučná definice.
 
 [\[2\]](./resources/undefined) Perfectibilitas fidei catholicae – dokonalost katolické víry.
@@ -62,3 +64,5 @@ contentType: poetry
 [\[29\]](./resources/undefined) Ex ungue leonem – podle drápu poznáš lva.
 
 [\[30\]](./resources/undefined) Versus memoriales  – verše k zapamatování.
+
+</section>
