@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-4cb70f2",
-  "revision": "4cb70f2",
+  "identifier": "borovsky-epigramy-9302035",
+  "revision": "9302035",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -29,8 +29,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:49:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883363324
+    "date": "Sat Jun 11 2022 11:56:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948587594
   },
   "documents": [
     {
