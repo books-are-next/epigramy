@@ -24,7 +24,7 @@ z německé jámy.
 ## NEJKRATŠÍ SYMBOLUM
 
 Motto: Co jest císařovo, císaři, a co jest Božího, Bohu.  
-                                                                             Ferdinand II.
+             Ferdinand II.
 
 Řeknu vám, až budu smít:  
 neníť Bůh a císař nemá být.

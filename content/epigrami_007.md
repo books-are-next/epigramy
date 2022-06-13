@@ -180,8 +180,8 @@ Lojolovi dědicové šálí lid,
 To zde prohlašuju za lež zjevnou,  
 anť jsem nikdy nebyl, aniž míním být;  
 střež se uvěřit jim, kdo můj přítel!  
-                                          _Ježíš Kristus_,  
-                                          lidstva Vykupitel
+             _Ježíš Kristus_,  
+              lidstva Vykupitel
 
 ## KAZUISTICKÝ
 

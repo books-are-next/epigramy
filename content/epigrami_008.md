@@ -44,7 +44,7 @@ milý pane můj:
 sedlák žito z hnoje  
 a ty z žita – hnůj.
 
-                               (Logau)
+             (Logau)
 
 ## § 1
 

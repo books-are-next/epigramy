@@ -74,7 +74,7 @@ Já:
 Jakpak by tam neseděl  
 kníže pán, když má p…
 
-                                                   (Puškin)
+             (Puškin)
 
 ## NOVÉ KACÍŘSTVÍ
 
@@ -109,7 +109,7 @@ astronomům nepovíme!“
 
 „Zdaliž neprodávají dva vrabce za halíř,  
 a jeden z nich nepadne na zem bez vůle Otce nebeského.“  
-                                                                                 Ježíš, Mat. X. 29
+                      Ježíš, Mat. X. 29
 
 Pořád vedou hořké žalosti  
 básníci nad ztrátou mladosti;  
