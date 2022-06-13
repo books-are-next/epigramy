@@ -2,15 +2,17 @@
 title: Tiráž
 ---
 
-<section>  
 **Karel Havlíček Borovský**  
 **Epigramy**  
 Edice Klasická česká poezie  
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Epigramy](https://search.mlp.cz/cz/titul/epigramy/2396252/) tak, jak bylo vydáno v Praze nakladatelstvím Dokořán v roce 2004. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 
