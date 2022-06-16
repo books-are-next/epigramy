@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-10T13:44:03.482Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - epigrami_005.html

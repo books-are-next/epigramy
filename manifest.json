@@ -5,10 +5,11 @@
   "title": "Epigramy",
   "author": "Karel Havlíček Borovský",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-9c93cae",
-  "revision": "9c93cae",
+  "identifier": "borovsky-epigramy-4f48915",
+  "revision": "4f48915",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -29,8 +30,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:48:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272114870
+    "date": "Thu Jun 16 2022 07:29:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364551359
   },
   "documents": [
     {
@@ -1381,9 +1382,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4253,
-      "chars": 24669,
-      "ideas": 942
+      "words": 4254,
+      "chars": 24675,
+      "ideas": 943
     },
     "chapters": {
       "words": 4128,
