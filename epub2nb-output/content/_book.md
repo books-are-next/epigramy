@@ -30,7 +30,7 @@ readingOrder:
   - epigrami_017.html
   - epigrami_018.html
   - epigrami_020.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

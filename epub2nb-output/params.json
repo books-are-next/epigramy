@@ -64,7 +64,7 @@
             "filename": "epigrami_003.md",
             "xhtml": "epigrami_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "epigrami_004.md",
             "xhtml": "epigrami_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -295,7 +295,7 @@
             "filename": "epigrami_021.md",
             "xhtml": "epigrami_021.html",
             "id": 20,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -541,6 +541,6 @@
       "user": "books-are-next",
       "repo": "epigramy"
     },
-    "generatedAt": 1655978317344
+    "generatedAt": 1657181806161
   }
 }

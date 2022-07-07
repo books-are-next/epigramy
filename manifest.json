@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-48991bd",
-  "revision": "48991bd",
+  "identifier": "borovsky-epigramy-c96f665",
+  "revision": "c96f665",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -27,11 +27,11 @@
     "epigrami_017.html",
     "epigrami_018.html",
     "epigrami_020.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:00:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978442582
+    "date": "Thu Jul 07 2022 08:21:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182108893
   },
   "documents": [
     {
@@ -1283,7 +1283,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Listy do památníku",
+          "name": "Listy do památníku",
           "id": null,
           "children": [
             {
@@ -1348,7 +1348,7 @@
       "role": "chapter",
       "order": 15,
       "prev": "epigrami_018.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1361,11 +1361,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 120,
-      "chars": 816,
+      "chars": 815,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "epigrami_020.html",
       "next": null,
@@ -1383,7 +1383,7 @@
   "totals": {
     "all": {
       "words": 4254,
-      "chars": 24675,
+      "chars": 24674,
       "ideas": 943
     },
     "chapters": {
