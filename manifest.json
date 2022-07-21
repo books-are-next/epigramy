@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-583dae7",
-  "revision": "583dae7",
+  "identifier": "borovsky-epigramy-db8af24",
+  "revision": "db8af24",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:59:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187957793
+    "date": "Thu Jul 21 2022 14:41:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414496555
   },
   "documents": [
     {
@@ -1363,7 +1363,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 120,
-      "chars": 815,
+      "chars": 816,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -1383,7 +1383,7 @@
   "totals": {
     "all": {
       "words": 4254,
-      "chars": 24674,
+      "chars": 24675,
       "ideas": 943
     },
     "chapters": {
