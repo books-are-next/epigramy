@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-db8af24",
-  "revision": "db8af24",
+  "identifier": "borovsky-epigramy-a90ac19",
+  "revision": "a90ac19",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:41:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414496555
+    "date": "Thu Sep 29 2022 21:22:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486535410
   },
   "documents": [
     {
@@ -129,7 +129,7 @@
               "index": 3,
               "level": 2,
               "name": "DEFINITIO DISCIPLINARIS[1]",
-              "id": "definitio-disciplinaris1resourcesundefined",
+              "id": "definitio-disciplinaris1textepigrami_020html_ftn1",
               "children": []
             },
             {
@@ -157,7 +157,7 @@
               "index": 7,
               "level": 2,
               "name": "PERFECTIBILITAS FIDEI CATHOLICAE[2]",
-              "id": "perfectibilitas-fidei-catholicae2resourcesundefined",
+              "id": "perfectibilitas-fidei-catholicae2textepigrami_020html_ftn2",
               "children": []
             },
             {
@@ -206,14 +206,14 @@
               "index": 14,
               "level": 2,
               "name": "DEMONSTRATIO MIRACULORUM[4]",
-              "id": "demonstratio-miraculorum4resourcesundefined",
+              "id": "demonstratio-miraculorum4textepigrami_020html_ftn4",
               "children": []
             },
             {
               "index": 15,
               "level": 2,
               "name": "ECCLESIA MILITANS[5]",
-              "id": "ecclesia-militans5resourcesundefined",
+              "id": "ecclesia-militans5textepigrami_020html_ftn5",
               "children": []
             },
             {
@@ -248,7 +248,7 @@
               "index": 20,
               "level": 2,
               "name": "EVANGELIUM SOPHISTICUM[6]",
-              "id": "evangelium-sophisticum6resourcesundefined",
+              "id": "evangelium-sophisticum6textepigrami_020html_ftn6",
               "children": []
             },
             {
@@ -262,7 +262,7 @@
               "index": 22,
               "level": 2,
               "name": "SOCIETAS JESU[7]",
-              "id": "societas-jesu7resourcesundefined",
+              "id": "societas-jesu7textepigrami_020html_ftn7",
               "children": []
             },
             {
@@ -304,7 +304,7 @@
               "index": 28,
               "level": 2,
               "name": "VETUS TESTAMENTUM PRAEFIGURAVIT NOVUM[8]",
-              "id": "vetus-testamentum-praefiguravit-novum8resourcesundefined",
+              "id": "vetus-testamentum-praefiguravit-novum8textepigrami_020html_ftn8",
               "children": []
             }
           ]
@@ -314,9 +314,9 @@
     {
       "title": "Králi D. D. D.",
       "file": "epigrami_008.html",
-      "words": 241,
-      "chars": 1445,
-      "ideas": 65,
+      "words": 258,
+      "chars": 1568,
+      "ideas": 67,
       "role": "chapter",
       "order": 4,
       "prev": "epigrami_007.html",
@@ -332,7 +332,7 @@
               "index": 1,
               "level": 2,
               "name": "ERDENGÖTTER[9]",
-              "id": "erdengötter9resourcesundefined",
+              "id": "erdengötter9textepigrami_020html_ftn9",
               "children": []
             },
             {
@@ -346,7 +346,7 @@
               "index": 3,
               "level": 2,
               "name": "OBERSTLANDESAMTSPROJEKT[10]",
-              "id": "oberstlandesamtsprojekt10resourcesundefined",
+              "id": "oberstlandesamtsprojekt10textepigrami_020html_ftn10",
               "children": []
             },
             {
@@ -360,7 +360,7 @@
               "index": 5,
               "level": 2,
               "name": "INS STAMMBUCH Sr HOCHGEBOREN[11]",
-              "id": "ins-stammbuch-srnbsphochgeboren11resourcesundefined",
+              "id": "ins-stammbuch-srnbsphochgeboren11textepigrami_020html_ftn11",
               "children": []
             },
             {
@@ -381,7 +381,7 @@
               "index": 8,
               "level": 2,
               "name": "FIGURA INVERSIONIS[12]",
-              "id": "figura-inversionis12resourcesundefined",
+              "id": "figura-inversionis12textepigrami_020html_ftn12",
               "children": []
             },
             {
@@ -395,7 +395,7 @@
               "index": 10,
               "level": 2,
               "name": "IUS REGALE[13]",
-              "id": "ius-regale13resourcesundefined",
+              "id": "ius-regale13textepigrami_020html_ftn13",
               "children": []
             },
             {
@@ -563,14 +563,14 @@
               "index": 2,
               "level": 2,
               "name": "VERBA DOCENT, EXEMPLA TRAHUNT[16]",
-              "id": "verba-docent-exempla-trahunt16resourcesundefined",
+              "id": "verba-docent-exempla-trahunt16textepigrami_020html_ftn16",
               "children": []
             },
             {
               "index": 3,
               "level": 2,
               "name": "ANTIGALL[17]",
-              "id": "antigall17resourcesundefined",
+              "id": "antigall17textepigrami_020html_ftn17",
               "children": []
             },
             {
@@ -724,7 +724,7 @@
               "index": 5,
               "level": 2,
               "name": "TRIPLEX IMMACULATIO[18]",
-              "id": "triplex-immaculatio18resourcesundefined",
+              "id": "triplex-immaculatio18textepigrami_020html_ftn18",
               "children": []
             },
             {
@@ -738,7 +738,7 @@
               "index": 7,
               "level": 2,
               "name": "UMGANG MIT MENSCHEN[19]",
-              "id": "umgang-mit-menschen19resourcesundefined",
+              "id": "umgang-mit-menschen19textepigrami_020html_ftn19",
               "children": []
             },
             {
@@ -814,7 +814,7 @@
               "index": 2,
               "level": 2,
               "name": "BEATA VIRGO MARIA JESUITIS SALUTEM[20]",
-              "id": "beata-virgo-maria-jesuitis-salutem20resourcesundefined",
+              "id": "beata-virgo-maria-jesuitis-salutem20textepigrami_020html_ftn20",
               "children": []
             },
             {
@@ -849,7 +849,7 @@
               "index": 7,
               "level": 2,
               "name": "LES BOHÉMIENS ET LES CARAÏBES MODERNES[21]",
-              "id": "les-bohémiens-etnbsples-caraïbes-modernes21resourcesundefined",
+              "id": "les-bohémiens-etnbsples-caraïbes-modernes21textepigrami_020html_ftn21",
               "children": []
             },
             {
@@ -912,7 +912,7 @@
               "index": 4,
               "level": 2,
               "name": "LANDTAG[22]",
-              "id": "landtag22resourcesundefined",
+              "id": "landtag22textepigrami_020html_ftn22",
               "children": []
             },
             {
@@ -943,9 +943,9 @@
     {
       "title": "Vlasti",
       "file": "epigrami_015.html",
-      "words": 422,
-      "chars": 2399,
-      "ideas": 88,
+      "words": 486,
+      "chars": 2761,
+      "ideas": 92,
       "role": "chapter",
       "order": 11,
       "prev": "epigrami_014.html",
@@ -968,7 +968,7 @@
               "index": 2,
               "level": 2,
               "name": "COMPARATIO A MAIORI AD MINUS[23]",
-              "id": "comparatio-anbspmaiori-adnbspminus23resourcesundefined",
+              "id": "comparatio-anbspmaiori-adnbspminus23textepigrami_020html_ftn23",
               "children": []
             },
             {
@@ -1108,7 +1108,7 @@
               "index": 7,
               "level": 2,
               "name": "INITIUM SAPIENTIAE[28]",
-              "id": "initium-sapientiae28resourcesundefined",
+              "id": "initium-sapientiae28textepigrami_020html_ftn28",
               "children": []
             },
             {
@@ -1150,7 +1150,7 @@
               "index": 2,
               "level": 2,
               "name": "EX UNGUE LEONEM[29]",
-              "id": "exnbspungue-leonem29resourcesundefined",
+              "id": "exnbspungue-leonem29textepigrami_020html_ftn29",
               "children": []
             },
             {
@@ -1185,7 +1185,7 @@
               "index": 7,
               "level": 2,
               "name": "VERSUS MEMORIALES[30]",
-              "id": "versus-memoriales30resourcesundefined",
+              "id": "versus-memoriales30textepigrami_020html_ftn30",
               "children": []
             },
             {
@@ -1342,9 +1342,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "epigrami_020.html",
-      "words": 277,
-      "chars": 1841,
-      "ideas": 31,
+      "words": 551,
+      "chars": 3553,
+      "ideas": 61,
       "role": "chapter",
       "order": 15,
       "prev": "epigrami_018.html",
@@ -1362,9 +1362,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 120,
-      "chars": 816,
-      "ideas": 14,
+      "words": 111,
+      "chars": 773,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "epigrami_020.html",
@@ -1382,14 +1382,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4254,
-      "chars": 24675,
-      "ideas": 943
+      "words": 4600,
+      "chars": 26829,
+      "ideas": 978
     },
     "chapters": {
-      "words": 4128,
-      "chars": 23819,
-      "ideas": 925
+      "words": 4483,
+      "chars": 26016,
+      "ideas": 961
     }
   }
 }
