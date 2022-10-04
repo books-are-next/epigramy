@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-epigramy-b0bb903",
-  "revision": "b0bb903",
+  "identifier": "borovsky-epigramy-7de5bdf",
+  "revision": "7de5bdf",
   "readingOrder": [
     "promo.html",
     "epigrami_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:33:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664908394007
+    "date": "Tue Oct 04 2022 22:50:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664923843500
   },
   "documents": [
     {
