@@ -38,7 +38,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^28]: Initium sapientiae – počátek moudrosti.  
 [^29]: Ex ungue leonem – podle drápu poznáš lva.  
 [^30]: Versus memoriales  – verše k zapamatování.  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+V MKP 2. elektronické vydání z 21. 10. 2022.
 
 ***
 
